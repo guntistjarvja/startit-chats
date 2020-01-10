@@ -9,3 +9,4 @@ viens
 Sveiks!
 Ka Tev iet?
 Ar enter
+Vārds
